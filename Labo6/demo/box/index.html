@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Box</title>
+  <link rel="stylesheet" href="stylesheet.css" type="text/css">
+  <style>
+    body
+    {
+      background-color: antiquewhite;
+    }
+    h1
+    {
+      background-color: #FF0000;
+
+    }
+    p
+      {
+        background-color: #0000ff;
+      }
+    span
+    {
+      background-color: #ffee00;
+    }
+    .block
+    {
+      width: 50%;
+      border: 2px solid black;
+      padding:10px;
+      margin:5px; /*margin is transparant(neemt kleur van parent)*/
+      margin-left: auto;
+      margin-right:auto;
+      text-align: center;
+    }
+    .blockspan
+    {
+      display:inline-block;
+      width:100px;
+    }
+    .center
+    {
+        display: block;
+        margin-left: auto;
+        margin-right:auto;
+    }
+  </style>
+</head>
+<body>
+<h1 class="block">VIVES</h1>
+<p>Vives heeft <span class="blockspan">verschillende</span> campussen</p>
+<img class="center" src="images/thecloud.png" alt="foto gebouw vives the cloud">
+</body>
+</html>
