@@ -1,0 +1,27 @@
+body
+{
+    font-size: 1.1em;
+    font-variant: small-caps;
+    background-color: silver;
+    color: darkblue;
+
+}
+h1
+{
+    background-color: #FF0000;
+}
+a
+{
+    background: url("../images/favicon.png") no-repeat left center;
+    padding-left:16px;
+}
+
+a:hover
+{
+    border: solid blue 2px;
+}
+
+.stippeltjesrand
+{
+    border: dotted 1px;
+}
