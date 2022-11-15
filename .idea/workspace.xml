@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="971bda71-0995-4bae-8fec-5982a3433c58" name="Changes" comment="commit">
+    <list default="true" id="971bda71-0995-4bae-8fec-5982a3433c58" name="Changes" comment="had double labo6, removed the duplicate">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalTest/style/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalTest/style/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo6/style/Opdracht4.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/style/opdracht4.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,8 @@
       <workItem from="1667995611917" duration="19000" />
       <workItem from="1668417657631" duration="662000" />
       <workItem from="1668418334692" duration="573000" />
-      <workItem from="1668419719924" duration="15000" />
+      <workItem from="1668419719924" duration="78000" />
+      <workItem from="1668528199605" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668418344121</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668418498730</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="had double labo6, removed the duplicate">
+      <created>1668419775332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668419775332</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <option name="searchClosedTasks" value="true" />
     <servers />
   </component>
@@ -115,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="had double labo6, removed the duplicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="had double labo6, removed the duplicate" />
   </component>
 </project>
