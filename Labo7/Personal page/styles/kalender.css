@@ -1,0 +1,55 @@
+body
+{
+    padding: 0px;
+    margin:0px;
+}
+
+table
+{
+    border: solid 2px black;
+    border-collapse: collapse;
+
+}
+thead
+{
+    background-color: rgb(170,170,200);
+    border-collapse: collapse;
+}
+td
+{
+    border:dotted 1px black;
+    border-collapse: collapse;
+}
+
+tbody tr :first-child
+ {
+    background-color: rgb(255, 220, 220);
+ }
+
+tbody tr :last-child
+{
+    background-color: rgb(255, 220, 220);
+}
+.days
+{
+    background-color: rgb(35,37,70); !important;
+    color: rgb(200,190,240);
+}
+
+
+thead
+{
+    background-color: #006698;
+    border-collapse: collapse;
+}
+
+ .vrijedag
+ {
+     background-color: rgb(250,120,120);
+ }
+
+ .andereMaand
+ {
+     background-color: #cbcbcb; !important;
+     color: #bbbbbb;
+ }

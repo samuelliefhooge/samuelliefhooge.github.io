@@ -1,0 +1,65 @@
+body
+{
+    width:1000px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #777777;
+    background-image: url("../images/bg.png");
+    background-repeat: repeat-y;
+    background-position: center top;
+}
+section
+{
+    padding: 5px;
+}
+#personal
+{
+    height:250px;
+    background-color: #555555;
+}
+#hobbies
+{
+    height: 50px;
+    overflow:hidden;
+    transition: height 500ms;
+}
+#hobbies:hover
+{
+    height:360px;
+}
+#likes
+{
+    height: 50px;
+    overflow:hidden;
+    transition: height 500ms;
+}
+#likes:hover
+{
+    height: 350px;
+}
+
+#prognose
+{
+    height: 50px;
+    overflow:hidden;
+    transition: height 500ms;
+}
+#prognose:hover
+{
+    height: 200px;
+}
+
+#vrienden
+{
+    height: 50px;
+    overflow:hidden;
+    transition: height 500ms;
+}
+#vrienden:hover
+{
+    height: 250px;
+}
+.onbekend
+{
+    background-color: #BB0000;
+}

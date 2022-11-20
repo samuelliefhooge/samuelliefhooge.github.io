@@ -1,0 +1,45 @@
+body
+{
+    margin:0px;
+    padding:0px;
+    font-family: arial, sans-serif;
+}
+.wrap{
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+
+
+}
+.header
+{
+    background-image: url("../images/header.jpg");
+    color: #FFFFFF;
+    font-size: 2em;
+    height: 100px;
+}
+nav
+{
+    background-color: #333333;
+    height: 25px;
+}
+nav a
+{
+    font-size: 1.2em;
+    color: #56fd91;
+    font-weight: bold;
+    text-decoration: unset;
+}
+article
+{
+    background-color: #DDDDDD;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+article h1
+{
+    color: #555555;
+    font-size: 2em;
+    text-decoration: underline;
+}

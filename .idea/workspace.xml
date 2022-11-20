@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971bda71-0995-4bae-8fec-5982a3433c58" name="Changes" comment="had double labo6, removed the duplicate">
+      <change afterPath="$PROJECT_DIR$/Labo7/NatureBlog/images/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/NatureBlog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/NatureBlog/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/images/combichrist.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/images/lotr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/images/portret.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/kalender.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/styles/kalender.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/VerslagCssDeel3.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo6/style/Opdracht4.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo6/style/opdracht4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo2/headings.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo2/headings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo3/personalpage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/personalpage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +37,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GAzXM2qbmLL7VfIbSz3S2mWhmD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,18 +51,22 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/Labo7/Personal page&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo7\Personal page" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\PersonalTest\style" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo7\NatureBlog" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\PersonalTest\style" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo6\style" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo6\demo\box\style" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo5\style" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -80,6 +99,11 @@
       <workItem from="1668418334692" duration="573000" />
       <workItem from="1668419719924" duration="78000" />
       <workItem from="1668528199605" duration="327000" />
+      <workItem from="1668689941668" duration="52000" />
+      <workItem from="1668765104070" duration="9274000" />
+      <workItem from="1668776207518" duration="233000" />
+      <workItem from="1668797484985" duration="3751000" />
+      <workItem from="1668933165233" duration="793000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668418344121</created>
