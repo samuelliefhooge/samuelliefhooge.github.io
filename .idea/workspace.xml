@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971bda71-0995-4bae-8fec-5982a3433c58" name="Changes" comment="had double labo6, removed the duplicate">
-      <change afterPath="$PROJECT_DIR$/Labo7/NatureBlog/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/NatureBlog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/NatureBlog/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/images/combichrist.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/images/lotr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/images/portret.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/kalender.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/styles/kalender.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/Personal page/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo7/VerslagCssDeel3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo2/headings.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo2/headings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo3/personalpage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo3/personalpage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -104,6 +92,7 @@
       <workItem from="1668776207518" duration="233000" />
       <workItem from="1668797484985" duration="3751000" />
       <workItem from="1668933165233" duration="793000" />
+      <workItem from="1668933997330" duration="132000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668418344121</created>
