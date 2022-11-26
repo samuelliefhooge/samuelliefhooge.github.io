@@ -1,0 +1,98 @@
+body
+{
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size: 1.em;
+    display: flex;
+    margin: 0px;
+}
+
+#wrap
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+h1
+{
+    color: #007e7e;
+    font-size: 150%;
+}
+
+h2
+{
+    color: #007e7e;
+    font-size: 130%;
+}
+
+a
+{
+    color: #111111;
+}
+header
+{
+    text-align: center;
+}
+.content
+{
+    width: 70%;
+    float:left;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+#guarantee
+{
+    padding: 20px;
+    padding-left: 82px;
+    margin: 30px;
+    background-color: #a7cece;
+    color: #444444;
+    border: 1px dotted #ffffff;
+    background-image: url("../images/background.gif");
+    background-position: top left;
+    background-repeat: no-repeat;
+
+}
+
+
+.weeklyspecials
+{
+    padding: 10px;
+    border: solid 1px aquamarine;
+    float: right;
+    box-sizing: border-box;
+    text-align: center;
+    width: 30%;
+    background-image: url("../images/cocktail.gif");
+    background-repeat: repeat-x;
+}
+
+.weeklyspecials h1
+{
+    color: #000000;
+}
+
+.weeklyspecials h2
+{
+    color: #ff006a;
+}
+.weeklyspecials a:hover
+{
+    color: saddlebrown;
+}
+
+span:first-child
+{
+    font-style: italic;
+}
+span:last-child
+{
+    font-weight: bold;
+}
+
+footer
+{
+    text-align: center;
+    clear:both;
+    font-size: 0.5em;
+}
