@@ -1,0 +1,24 @@
+body
+{
+    background-color: lightgray;
+    font: 1.2em sans-serif;
+    margin: 0px;
+}
+
+article
+{
+    border: 1px solid black;
+    padding: 10px;
+    min-height: 280px;
+    margin: 0 10px 10px;
+}
+
+article:nth-child(odd) img /* nthchild(2n+X) de xste gaat hij dit doen */
+{
+    float: left;
+}
+
+article:nth-child(even) img
+{
+    float: right;
+}

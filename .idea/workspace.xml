@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971bda71-0995-4bae-8fec-5982a3433c58" name="Changes" comment="had double labo6, removed the duplicate">
-      <change afterPath="$PROJECT_DIR$/Labo8/CocktailBar/begin_cocktail_bar/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Lorem_ipsum/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Lorem_ipsum/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Lorem_ipsum_extra_space/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/Lorem_ipsum_extra_space/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/opdracht airbus/assignment airbus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/opdracht airbus/opdracht airbus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/opdracht airbus/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/opdracht airbus/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/positioneren/positioneren_image_begin/Styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo9/positioneren/relative-absolute-positioning/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -19,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,29 +39,29 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/Labo8/Lorem_ipsum_extra_space",
-    "list.type.of.created.stylesheet": "CSS",
-    "settings.editor.selected.configurable": "fileTemplates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/Labo8/Lorem_ipsum_extra_space&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo8\Lorem_ipsum_extra_space" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo7\Personal page" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9\positioneren" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9\positioneren\begin\demonstration pitfalls of inline-block element\styles" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9\positioneren\begin" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo8" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo7\NatureBlog" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\PersonalTest\style" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo6\style" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -106,6 +106,10 @@
       <workItem from="1669224675422" duration="93000" />
       <workItem from="1669445885026" duration="48000" />
       <workItem from="1669455041076" duration="9098000" />
+      <workItem from="1669465136387" duration="57000" />
+      <workItem from="1669975441164" duration="6900000" />
+      <workItem from="1669983032112" duration="257000" />
+      <workItem from="1669983360016" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668418344121</created>
