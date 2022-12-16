@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971bda71-0995-4bae-8fec-5982a3433c58" name="Changes" comment="had double labo6, removed the duplicate">
-      <change afterPath="$PROJECT_DIR$/Labo10/Mondriaan/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Mondriaan/style/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Mondriaan/style/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Oefening2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Oefening2/style/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Labo10/Oefening2/style/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo10/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo11/demo/Beginsituatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo11/demo/Beginsituatie/style/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo11/demo/Bootstrap/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo11/demo/Bootstrap/style/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo11/demo/Bootstrap/style/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo11/demo/grid/images/vives.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo11/demo/grid/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo11/demo/grid/style/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -44,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/Labo10/Mondriaan",
+    "last_opened_file_path": "C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/labo11/demo/grid",
     "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
@@ -52,17 +56,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\grid" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\Bootstrap" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\Bootstrap\style" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo10\Mondriaan" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo10\Oefening2\style" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo8\Lorem_ipsum_extra_space" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo7\Personal page" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\grid" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\grid\imagfes" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9\positioneren" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9\positioneren\begin\demonstration pitfalls of inline-block element\styles" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9\positioneren\begin" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo8" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -113,6 +118,8 @@
       <workItem from="1669983360016" duration="105000" />
       <workItem from="1670580633613" duration="6418000" />
       <workItem from="1671183648797" duration="704000" />
+      <workItem from="1671184408847" duration="392000" />
+      <workItem from="1671185428499" duration="6355000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668418344121</created>

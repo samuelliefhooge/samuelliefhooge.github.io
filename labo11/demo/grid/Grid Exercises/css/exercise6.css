@@ -1,0 +1,93 @@
+main{
+    display:grid;
+    grid-gap: 5px;
+}
+
+
+main .block{
+    margin:0;
+    padding:20px;
+}
+@media screen and (min-width: 320px) {
+    main{
+        grid-template-columns: 1fr ;
+        grid-auto-rows: auto ;
+    }
+    .block.block1 {
+        grid-area: 2/1 /2/ 2;
+        background-color: brown;
+    }
+
+    .block.block2 {
+        grid-area: 1/1 /2/ 2;
+        background-color: rebeccapurple;
+    }
+
+    .block.block3 {
+        grid-area: 3/1/3/2;
+        background-color: royalblue;
+    }
+
+    .block.block4 {
+        grid-area: 4/1 /4/ 2;
+        background-color: teal;
+    }
+}
+
+@media screen and (min-width: 772px) {
+    main {
+        grid-template-columns: 1fr;
+        grid-template-rows: auto;
+    }
+
+    .block.block1,
+    .block.block2,
+    .block.block3,
+    .block.block4{
+        grid-template-columns: auto;
+        grid-template-rows: auto ;
+    }
+    .block.block1 {
+        background-color: brown;
+    }
+
+    .block.block2 {
+        background-color: rebeccapurple;
+    }
+
+    .block.block3 {
+        background-color: royalblue;
+    }
+
+    .block.block4 {
+        background-color: teal;
+    }
+
+}
+
+@media screen and (min-width: 992px) {
+    main{
+        grid-template-columns: 1fr 2fr ;
+        grid-auto-rows: auto auto auto;
+    }
+    .block.block1 {
+        grid-area: 1/1 /2/ 3;
+        background-color: brown;
+    }
+
+    .block.block2 {
+        grid-area: 2/1 /2/ 3;
+        background-color: rebeccapurple;
+    }
+
+    .block.block3 {
+        grid-area: 3/1/3/2;
+        background-color: royalblue;
+    }
+
+    .block.block4 {
+        grid-area: 3/2 /4/ 3;
+        background-color: teal;
+    }
+}
+
