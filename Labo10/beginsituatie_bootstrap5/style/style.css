@@ -1,0 +1,19 @@
+/*.box{
+    height: 200px;
+    box-sizing: border-box;
+    border: white 10px solid;
+}*/
+div[class*='col']
+{
+    height: 200px;
+    box-sizing: border-box;
+    border: white 10px solid;
+}
+
+.gray{
+    background-color: dimgray;
+}
+ .lightgray{
+
+    background-color: lightgray;
+ }
