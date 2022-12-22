@@ -11,7 +11,7 @@ main .block{
 @media screen and (min-width: 320px) {
     main{
         grid-template-columns: 1fr ;
-        grid-auto-rows: auto ;
+        grid-auto-rows: auto auto auto auto ;
     }
     .block.block1 {
         grid-area: 2/1 /2/ 2;
