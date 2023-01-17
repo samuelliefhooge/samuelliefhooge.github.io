@@ -59,7 +59,7 @@ nav ul li a
     gap:25px;
     margin-left: auto;
     margin-right: auto;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .item

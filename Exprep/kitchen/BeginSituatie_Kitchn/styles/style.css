@@ -1,34 +1,56 @@
 /** Volgende CSS gaan we ze geven **/
-body
-{
-    margin: 0;
-    font-family: Helvetica, sans-serif;
-}
-
 .respimg {
     width: 100%;
     height: auto;
     display: block;
 }
-#logowrap
+
+body
 {
-    display: block;
+    margin:0;
+    padding:0;
+    font-family: Helvetica, sans-serif;
+}
+
+h1
+{
+    text-transform: uppercase;
+    font-size: 2.5em;
+    color: black;
+    border-bottom: 2px solid black;
+    margin-bottom: 1em;
+}
+
+h2
+{
+    font-size: 1.5em;
+    margin-bottom: 1em;
+}
+
+header
+{
     border-bottom: 1px solid #ebe8e8;
+    width: 100%;
 }
-#logo
+
+.logo
 {
-    margin-left:auto;
+    width:980px;
+    margin-left: auto;
     margin-right: auto;
-    width: 980px;
 }
+
+.logo image
+{
+    height:50px;
+    width: auto;
+}
+
 nav
 {
     width: 980px;
-    margin-left:auto;
+    margin-left: auto;
     margin-right: auto;
-    padding-top: 10px;
-    padding-bottom: 10px;
-
 }
 
 nav ul
@@ -36,25 +58,21 @@ nav ul
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-auto-rows: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 nav ul li
 {
     display: inline-block;
-    border-right: 1px solid #ebe8e8;
+    text-align: center;
     padding-top: 10px;
     padding-bottom: 10px;
-    text-align: center;
-    text-transform: uppercase ;
+    border-right: 1px solid #ebe8e8;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #5b4746;
     font-size: 13px;
-}
-
-nav ul li a{
-
-}
-nav ul li:last-child
-{
-    border-right:none;
 }
 
 nav ul li:hover
@@ -63,186 +81,166 @@ nav ul li:hover
     padding-bottom: 8px;
 }
 
+nav ul li:last-child
+{
+    border-right: 0;
+}
 
+main
+{
 
-header
+}
+
+main header
 {
     border-top: 1px solid #ebe8e8;
-    width:100%;
+    border-bottom: 0;
     height: 500px;
     background-image: url("../images/headerimage.jpg");
     background-position: center center;
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
-    font-size: 5em;
-    color: white;
-    text-align: center;
-    text-shadow: 2px 2px 2px #8D99AE;
     position: relative;
-
 }
-header p
+
+.headerText
 {
-    margin: 0;
     position: absolute;
     top: 50%;
-    left: 50%;
+    left:50%;
     transform: translate(-50%, -50%);
+    color: white;
+    font-size: 40px;
+    text-shadow: 2px 2px #8d99AE;
 }
-main
+
+.recipes
 {
-    width:980px;
+    margin-top:50px;
+    margin-right: auto;
     margin-left: auto;
-    margin-right:auto;
-    margin-top: 50px;
+    width:980px;
 }
-
-h1
-{
-    text-transform: uppercase ;
-    font-size: 2.5em;
-    color: black;
-    display:block;
-    border-bottom: 2px solid black;
-    padding-bottom: 1em;
-    margin-bottom: 1em;
-}
-
-h2
-{
-    font-size: 150%;
-    margin-bottom: 1em;
-}
-#recipes
+.gridbox
 {
     display: grid;
+    grid-gap: 15px;
     grid-template-columns: 1fr 1fr;
     grid-auto-rows: auto;
-    grid-gap: 15px;
 }
 
 article
 {
-    margin-right:  1.5em;
+    margin-right: 1.5em;
     padding-top: 1em;
     border-top: 1px solid #ddd;
 }
-
-.kicker
+.articleTitle
 {
     text-transform: uppercase;
     font-size: 1.2em;
-    color: #ff4d56;
     letter-spacing: 1px;
+    color: #ff4d56;
 }
-#recipes article a
+article h2 a
 {
-    text-decoration: none;
     color: black;
+    text-decoration: none;
 }
-
-.recommended
-{
-    padding-left: 0;
-    padding-right: 0;
-}
-
-.itemBody
+article p:last-child
 {
     color: #666;
     line-height: 2;
 }
-
-.itemAuthor
+.author
 {
     padding-right: 10px;
-    font-style: italic;
     border-right: 1px solid #ebe8e8;
+    font-style: italic;
 }
 
 .timestamp
 {
     color: #666;
-    padding-left:10px;
+    padding-left: 10px;
 }
 
 .recommended
 {
-    padding-top: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 980px;
+    margin-top: 50px;
+    width:980px;
 }
 
-.RecImg
+.row div
 {
-    margin-bottom: 25px;
+    padding-bottom: 25px;
 }
+
 footer
 {
+    width: 100%;
     border-top: 1px solid #ebe8e8;
     line-height: 2em;
 }
-footer div
-{
-    padding:10px;
-}
+
 #left
 {
-    text-align: end;
     float:left;
-    width:50%;
+    text-align: right;
+    width: 50%;
+    padding:20px;
 }
-
 #right
 {
     float:right;
     background-color: black;
     color: white;
-    width:50%
+    width: 50%;
+    padding:20px;
 }
-
+@media screen and (min-width: 800px)
+{
+    .headerText
+    {
+        font-size: 5em;
+    }
+}
 @media screen and (max-width: 1000px)
 {
-    #logo
+    .logo
     {
-        width: 750px;
+        width:750px;
     }
     nav
     {
         width: 750px;
     }
-    main
+    .recipes
     {
         width:750px;
     }
     .recommended
     {
         width: 750px;
-        margin-right: 0;
-        margin-left: 0;
     }
 }
-@media screen and (max-width: 800px)
-{
-    header
-    {
-        font-size: 40px;
 
-    }
-}
 @media screen and (max-width: 770px)
 {
-    #logo
+    .logo
     {
-        width: 600px;
+        width:600px;
     }
     nav
     {
         width: 600px;
     }
-    main
+    .recipes
     {
-        width: 600px;
+        width:600px;
+    }
+    .recommended
+    {
+        width: 750px;
     }
 }
