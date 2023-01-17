@@ -1,0 +1,151 @@
+body
+{
+    padding:0;
+    margin:0;
+}
+nav
+{
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: white;
+    height : 50px;
+}
+
+nav ul
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+
+}
+
+nav ul li
+{
+    display: inline-block;
+    text-align: center;
+    height: 50px;
+
+}
+
+nav ul li:hover
+{
+    background-color: #bbbbbb;
+}
+
+nav ul li a
+{
+    text-decoration: none;
+    color: #3399ff;
+
+
+
+}
+.menuItem
+{
+    display: inline-block;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    vertical-align: center;
+}
+.container
+{
+    width:75%;
+    background-color: #FF0000;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:25px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-evenly;
+}
+
+.item
+{
+    text-align: center;
+    background-color: #006698;
+    height: 250px;
+    width: 250px;
+}
+
+.itemg
+{
+    text-align: center;
+    background-color: #006698;
+    height: 250px;
+}
+.floatBox
+{
+    width: 75%;
+    background-color: #FF0000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.floatLeft
+{
+    float:left;
+}
+
+.floatRight
+{
+    float: right;
+}
+
+.break
+{
+    clear: left;
+}
+
+.gridBox
+{
+    width:800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    grid-template-rows: auto auto auto;
+}
+
+.gridItem1
+{
+    grid-area: 1/1/2/2;
+}
+.gridItem2
+
+{
+    grid-area: 1/2/2/3;
+
+    background-color: #73AD21;
+
+}
+#textbox
+{
+    position: relative;
+    background-color: #FF0000;
+    height: 500px;
+    width: 750px;
+}
+#magewarfare
+{
+    position: absolute;
+    top:50%;
+    left:100%;
+    box-sizing: content-box;
+    display: inline-block;
+    font-style: italic;
+    background-color: #006698;
+    border: 1px solid green;
+    border-left: 5px solid orange;
+}
+
+@media screen and (max-width:800px)
+{
+    .gridBox
+    {
+        width: 75%;
+    }
+}
+

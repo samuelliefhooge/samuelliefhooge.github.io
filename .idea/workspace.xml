@@ -2,12 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971bda71-0995-4bae-8fec-5982a3433c58" name="Changes" comment="had double labo6, removed the duplicate">
-      <change afterPath="$PROJECT_DIR$/labo11/demo/grid/Grid Exercises/css/extraOefening.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo11/demo/grid/Grid Exercises/extraOefening.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/USB/BASE/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/USB/BASE/styles/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/USB/BASE/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/USB/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/USB/examples.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/lesGeven/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/lesGeven/flex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/lesGeven/float.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/lesGeven/grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/lesGeven/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/lesGeven/styles/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exprep/lesGeven/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/Opdracht1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/Opdracht1/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/Opdracht2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/Opdracht2/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/Opdracht3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/Opdracht3/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/calc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo12/demo/templateArea/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herhalingsoefeningen/opdracht1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herhalingsoefeningen/opdracht1/styles/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo11/demo/grid/Grid Exercises/css/exercise5.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo11/demo/grid/Grid Exercises/css/exercise5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo11/demo/grid/Grid Exercises/css/exercise6.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo11/demo/grid/Grid Exercises/css/exercise6.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -27,6 +44,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2GAzXM2qbmLL7VfIbSz3S2mWhmD" />
   <component name="ProjectLevelVcsManager">
@@ -43,7 +63,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/labo11/demo/grid/Grid Exercises/css",
+    "last_opened_file_path": "C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/Exprep/lesGeven",
     "list.type.of.created.stylesheet": "CSS",
     "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
@@ -51,18 +71,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Exprep\lesGeven" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Exprep\USB\BASE\styles" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo12\demo" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\grid\Grid Exercises\css" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\grid\Grid Exercises" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\grid" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\Bootstrap" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\Bootstrap\style" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Exprep\kitchen\style" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo12\demo" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\grid" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\grid\imagfes" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9\positioneren" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo9\positioneren\begin\demonstration pitfalls of inline-block element\styles" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -117,6 +137,10 @@
       <workItem from="1671185428499" duration="6555000" />
       <workItem from="1671525972910" duration="323000" />
       <workItem from="1671724640906" duration="1608000" />
+      <workItem from="1671789941576" duration="4178000" />
+      <workItem from="1672937637273" duration="34000" />
+      <workItem from="1673699502558" duration="13181000" />
+      <workItem from="1673945273696" duration="10006000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668418344121</created>
