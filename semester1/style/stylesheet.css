@@ -1,0 +1,15 @@
+#wrap
+{
+    background-color: #FFFFFF;
+    width:80%;
+    height:100%;
+    horiz-align: center;
+    margin-right:auto;
+    margin-left: auto;
+    padding: 5px;
+}
+
+body
+{
+    background-color: #EEEEEE;
+}
