@@ -1,0 +1,18 @@
+body
+{
+    margin:0;
+    padding: 0;
+}
+
+.wrap
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.game
+{
+    width: 800px;
+    height: 600px;
+    background-color: #3399ff;
+}
