@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.koetje {
+    height: 20%;
+    width: 20%;
+}
+
+.grootKoetje {
+    height: 40%;
+    width: 40%;
+    transition: 2s;
+}

@@ -2,30 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971bda71-0995-4bae-8fec-5982a3433c58" name="Changes" comment="had double labo6, removed the duplicate">
-      <change afterPath="$PROJECT_DIR$/JS/Labo1/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo1/demo/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo1/demo/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo2/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/colorpicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/colorpicker/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/intro/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/intro/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/intro/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/paragrafen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/paragrafen/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/paragrafen/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/prijslijst/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/prijslijst/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo3/prijslijst/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/game/game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/game/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/game/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/oplossing calc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/oplossing calc/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/oplossing calc/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo4-Forms/demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo4-Forms/demo/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo4-Forms/demo/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo4-Forms/formulierElementen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo4-Forms/formulierElementen/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo4-Forms/formulierElementen/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo4-Forms/tekstSpaties/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo4-Forms/tekstSpaties/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo4-Forms/tekstSpaties/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/Gemeenten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/Gemeenten/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/Gemeenten/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/de_en_het/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/de_en_het/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/de_en_het/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/demo/images/cow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/demo/images/cow2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/demo/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/demo/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/demo/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/trigrammen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/trigrammen/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo5/trigrammen/styles/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/styles/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/colorpicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/colorpicker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/colorpicker/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/colorpicker/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/colorpicker/styles/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/colorpicker/styles/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/intro/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/intro/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/intro/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/intro/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/intro/styles/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/intro/styles/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/paragrafen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/paragrafen/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/paragrafen/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/paragrafen/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/paragrafen/styles/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/paragrafen/styles/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/prijslijst/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/prijslijst/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/prijslijst/scripts/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/prijslijst/scripts/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS/Labo3/prijslijst/styles/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/JS/Labo3-input-outputInHtml/prijslijst/styles/stylesheet.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +52,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -64,7 +80,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/Exprep/lesGeven&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/JS/Labo5&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
@@ -72,18 +88,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo5" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo4\formulierElementen" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Exprep\lesGeven" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Exprep\USB\BASE\styles" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Labo12\demo" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\grid\Grid Exercises\css" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\labo11\demo\grid\Grid Exercises" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo5\demo\images" />
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo4\demo" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo3" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\semester1" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\Exprep\kitchen\style" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -160,6 +176,12 @@
       <workItem from="1678354326435" duration="3624000" />
       <workItem from="1678429271454" duration="1803000" />
       <workItem from="1678446005227" duration="5239000" />
+      <workItem from="1678451608758" duration="9000" />
+      <workItem from="1678453496531" duration="439000" />
+      <workItem from="1678454102972" duration="4486000" />
+      <workItem from="1678458649132" duration="5367000" />
+      <workItem from="1678694100958" duration="6667000" />
+      <workItem from="1678965465934" duration="3117000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668418344121</created>
