@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper
+{
+    margin-right: auto;
+    margin-left: auto;
+    width: 40%;
+    text-align: center;
+}
+
+#Field{
+
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 5px;
+}
+
+.kaart
+{
+    width: 65px;
+    height: 100px;
+    margin:10px;
+    border: 3px solid white;
+}
+
+.juist
+{
+    border: 3px solid green;
+}
+
+.fout
+{
+    border: 3px solid red;
+}
+
+.invisible
+{
+    visibility: hidden
+}
