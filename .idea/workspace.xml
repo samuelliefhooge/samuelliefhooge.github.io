@@ -2,89 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="971bda71-0995-4bae-8fec-5982a3433c58" name="Changes" comment="had double labo6, removed the duplicate">
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/CreateNode/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/CreateNode/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/CreateNode/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/Nodes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/Nodes/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/Nodes/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/QuerySelector/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/QuerySelector/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/QuerySelector/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/QuerySelectorAll_oef3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/QuerySelectorAll_oef3/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/QuerySelectorAll_oef3/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/QueryselectorAll_oef2/images/me.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/QueryselectorAll_oef2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/QueryselectorAll_oef2/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/QueryselectorAll_oef2/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/colorpicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/colorpicker/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/demo event bubbling/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/demo event bubbling/scripts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/demo event bubbling/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/selector/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/selector/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo6/demo/selector/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/HitAnObject/images/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/HitAnObject/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/HitAnObject/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/HitAnObject/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/HitAnObject/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/HitAnObject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/HitAnObject/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/HitAnObject/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/demo 01 setinterval/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/demo 01 setinterval/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/demo 02 settimeout eenmalig/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/demo 02 settimeout eenmalig/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/demo 03 settimeout herhaald/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/demo 03 settimeout herhaald/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/demo sprites/www/images/silly-smiley.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/demo sprites/www/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/demo sprites/www/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/demo sprites/www/style/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/getAnObject/images/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/getAnObject/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/getAnObject/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/getAnObject/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/getAnObject/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/getAnObject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/getAnObject/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/getAnObject/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/hitAnObject.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/javascript deel07(3).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/images/achterkant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/images/kaart1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/images/kaart2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/images/kaart3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/images/kaart4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/images/kaart5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/images/kaart6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/scripts/codeBAK.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/kaartspel/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/www/images/silly-smiley.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/www/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/www/script/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo7/www/style/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo8/Date/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo8/Date/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo8/object/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo8/object/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo8/object/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo8/start contact manager opdracht/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo8/start contact manager opdracht/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo8/start contact manager opdracht/scripts/validatie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo8/start contact manager opdracht/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo9/colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo9/colorpicker/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo9/colorpicker/styles/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo9/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo9/demo/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/Labo9/demo/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo10/MyInternetStartPage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo10/MyInternetStartPage/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo10/MyInternetStartPage/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo11/Tafels_Opl/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo11/Tafels_Opl/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo11/Tafels_Opl/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo11/tafels_Opgave/images/oefeningTafelsEindresultaat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo11/tafels_Opgave/images/oefeningTafelsvoorbeeld1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo11/tafels_Opgave/images/startOefeningTafels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo11/tafels_Opgave/opgave.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo11/tafels_Opgave/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/Labo11/tafels_Opgave/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Bioscoop/images/Knipsel.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Bioscoop/images/seat_avail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Bioscoop/images/seat_select.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Bioscoop/images/seat_unavail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Bioscoop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Bioscoop/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Bioscoop/styles/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Search_Engine/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Search_Engine/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Search_Engine/styles/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/examenPrep/Search_Engine/styles/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,8 +36,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -119,33 +59,33 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/JS/Labo9&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/samue/Documents/GitHub/samuelliefhooge.github.io/JS/examenPrep/Search_Engine/styles",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\examenPrep\Search_Engine\styles" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo9" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo7\getAnObject" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo6\demo\QueryselectorAll_oef2\images" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo6\demo" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\examenPrep\Bioscoop" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo6\demo\selector" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo6\demo\demo event bubbling" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo6\demo" />
       <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo5\demo\images" />
-      <recent name="C:\Users\samue\Documents\GitHub\samuelliefhooge.github.io\JS\Labo4\demo" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -241,6 +181,11 @@
       <workItem from="1682586607398" duration="6653000" />
       <workItem from="1683131993795" duration="8884000" />
       <workItem from="1683180999987" duration="303000" />
+      <workItem from="1683191236302" duration="6300000" />
+      <workItem from="1683796143743" duration="5803000" />
+      <workItem from="1683814990123" duration="2458000" />
+      <workItem from="1685791548714" duration="11878000" />
+      <workItem from="1686052520828" duration="13627000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1668418344121</created>

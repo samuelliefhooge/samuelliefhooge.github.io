@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper
+{
+    margin-right: auto;
+    margin-left: auto;
+    width : 75%;
+    height: 250px;
+    text-align: center;
+}
+
+#txtSearch
+{
+    margin-top: 200px;
+    width : 75%;
+}
+
+.youtube-card {
+    background-color: #ff0000 !important;
+    color: #ffffff;
+
+}
+
+a.youtube-button {
+    background-color: #282828;
+    color: #ffffff;
+    border: 0;
+}
+
+.instagram-card {
+    background-color: #c32aa3 !important;
+    color: white;
+
+}
+
+a.instagram-button {
+    background-color: #f46f30;
+    color: #ffdc7d;
+    border: 0;
+}
+
+.google-card {
+    background-color: #4285f4 !important;
+    color: white;
+
+}
+
+a.google-button {
+    background-color: #ea4335;
+    color: #fbbc05;
+    border: 0;
+}
+
+.twitter-card {
+    background-color: #1da1f2 !important;
+    color: white;
+
+}
+
+a.twitter-button {
+    background-color: #14171a;
+    color: #f5f8fa;
+    border: 0;
+}
